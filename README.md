@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-👋 Hi, I’m Rafael Ortiz, I'm systems engineer and a full stack developer.
+👋 Hi, I’m Rafael Ortiz, I'm systems engineer and a front end developer.
 - 🌱 I’m currently studying software engineer
 - 👀 I’m interested in technology and passionate about create innovators systems 
 
